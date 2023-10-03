@@ -1,0 +1,1 @@
+rodar o código gcc main.c lista2.c fila.c operacoes.c -o main 
